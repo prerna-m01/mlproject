@@ -187,17 +187,6 @@ gunicorn app:app
 
 ---
 
-# Future Improvements
-
-* FastAPI integration
-* Dockerization
-* CI/CD pipeline
-* Better UI/UX
-* Model monitoring
-* Automated retraining
-* Cloud deployment
-
----
 
 # Screenshots
 
